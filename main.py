@@ -13,6 +13,7 @@ Write an algorithm to output the state of the cells after the given number of da
 
 states = list of ints (either 0s or 1s)
 days = int
+"""
 
 def cellCompete(states, days):
     # WRITE YOUR CODE HERE
